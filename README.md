@@ -29,7 +29,7 @@
 
 [![FarkasJoseph's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=FarkasJoseph&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&&custom_title=Joseph's+GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
 
-![FarkasJoseph's Recent Hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=22494&api_domain=hackatime.hackclub.com&&custom_title=Joseph's+Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent&hide_border=true&bg_color=00000000)
+![FarkasJoseph's Recent Hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=22494&api_domain=hackatime.hackclub.com&&custom_title=Joseph's+Recent+Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent&hide_border=true&bg_color=00000000)
 
 
 <!-- {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }} -->
