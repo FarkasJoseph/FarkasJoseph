@@ -12,6 +12,8 @@
 - Frontend Development: Flutter/Dart, Java (+JavaFX), Javascript, HTML/CSS
 
 ### Recent Work
+- This semester, I'm a member of the [Georgia Tech RoboCup](https://github.com/RoboJackets/robocup-software) competitive autonomous soccer robotics software team, working on ROS integration, autonomous strategies, and computer vision.
+- I'm also involved with Guidance, Navigation and Control at Propulsive Lander, and we're aiming to be the first ever collegiate team to achieve VTOL with a hybrid rocket. My concentration has been in model predictive control and navigation algorithms.
 - I recently finished the HackGT hackathon building a live and seamless tool for notetaking and making reminders from real conversations.
 - My team won the Best use of Mongo DB and an Honorable Mention from Google Cloud for [DocDoctor](https://github.com/karthiksing05/DocDoctor-AI-ATL): a CSM tool for transcribing customer calls in real-time and provide intuitive documentation lookup. ([Devpost](https://devpost.com/software/docdoctor))
 - I also won the Retro Track at the HackNC hackathon for [SlashSend](https://github.com/kevinzhxng/SlashSpend)! ([Devpost](https://devpost.com/software/slashspend))
@@ -25,9 +27,15 @@
 
 ![](https://github.com/mrredness/github-stats/blob/master/generated/languages.svg) -->
 
-[![FarkasJoseph's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=FarkasJoseph&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&show_icons=true&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![FarkasJoseph's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=FarkasJoseph&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&&custom_title=Joseph's+GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
 
+![FarkasJoseph's Recent Hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=22494&api_domain=hackatime.hackclub.com&&custom_title=Joseph's+Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent&hide_border=true&bg_color=00000000)
+
+
+<!-- {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }} -->
+<!--
 [![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=FarkasJoseph&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 [![Wakatime](https://wakatime.com/share/@018bcffe-5abf-4894-acd6-0ce0310dfd2a/8832125e-cdae-4bc2-976c-6643fa8ab2ca.svg)](https://wakatime.com)
