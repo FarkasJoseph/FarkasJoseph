@@ -12,8 +12,9 @@
 - Frontend Development: Flutter/Dart, Java (+JavaFX), Javascript, HTML/CSS
 
 ### Recent Work
-- This semester, I'm a member of the [Georgia Tech RoboCup](https://github.com/RoboJackets/robocup-software) competitive autonomous soccer robotics software team, working on ROS integration, autonomous strategies, and computer vision.
-- I'm also involved with Guidance, Navigation and Control at Propulsive Lander, and we're aiming to be the first ever collegiate team to achieve VTOL with a hybrid rocket. My concentration has been in model predictive control and navigation algorithms.
+- This semester, I'm mentoring the software department of FIRST Robotics [Team 1771](https://github.com/TEAM1771) as they take on the 2026 Rebuilt challenge.
+- I'm involved with [Georgia Tech's RoboCup](https://github.com/RoboJackets/robocup-software) competitive autonomous soccer robotics software team, working on ROS integration, autonomous strategies, and computer vision.
+- I'm also involved with Guidance, Navigation and Control at Propulsive Landers, and we're aiming to be the first ever collegiate team to achieve VTOL with a hybrid rocket. My concentration has been in model predictive control and navigation algorithms.
 - I recently finished the HackGT hackathon building a live and seamless tool for notetaking and making reminders from real conversations.
 - My team won the Best use of Mongo DB and an Honorable Mention from Google Cloud for [DocDoctor](https://github.com/karthiksing05/DocDoctor-AI-ATL): a CSM tool for transcribing customer calls in real-time and provide intuitive documentation lookup. ([Devpost](https://devpost.com/software/docdoctor))
 - I also won the Retro Track at the HackNC hackathon for [SlashSend](https://github.com/kevinzhxng/SlashSpend)! ([Devpost](https://devpost.com/software/slashspend))
