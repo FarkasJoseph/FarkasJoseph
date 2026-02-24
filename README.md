@@ -1,57 +1,36 @@
 # Welcome 🖖 
+
 ## CS | Georgia Tech | FRC 1771 Programming Mentor
-### I love embedded devices, intelligence, and any hands-on software engineering
-### Looking to expand technical expertise and collaborate to build solutions with real impacts.
+### Passionate about embedded devices, AI, and hands-on software engineering.
+### Always looking to expand my technical expertise and collaborate on impactful solutions.
 
 ## [Resume](https://github.com/FarkasJoseph/Resume/blob/main/main.pdf)
 
-###     Skills & Experience
-- C/C++, Embedded systems and Robotics : Time-optimal trajectory planning, numerical solving, resilient and smooth system control
-- Computer Vision: Feduicals, localizing, Kalman filtering
-- Machine Learning: Python, Jupyter, Tensorflow and Mediapipe : Neural Network models identifying body language, gestures, etc
-- Frontend Development: Flutter/Dart, Java (+JavaFX), Javascript, HTML/CSS
+---
+
+### Skills & Experience
+- **C/C++ & Embedded Systems**: Time-optimal trajectory planning, resilient system control, and numerical solving.
+- **Computer Vision**: Feduicals, localization, and Kalman filtering.
+- **Machine Learning**: Python, Jupyter, TensorFlow, Mediapipe for neural network models (e.g., body language, gestures).
+- **Fullstack Development**: Flutter/Dart, Java (JavaFX), JavaScript, HTML/CSS.
+
+---
 
 ### Recent Work
-- This semester, I'm mentoring the software department of FIRST Robotics [Team 1771](https://github.com/TEAM1771) as they take on the 2026 Rebuilt challenge.
-- I'm involved with [Georgia Tech's RoboCup](https://github.com/RoboJackets/robocup-software) competitive autonomous soccer robotics software team, working on ROS integration, autonomous strategies, and computer vision.
-- I'm also involved with [Guidance, Navigation and Control](https://github.com/Avionics-Propulsion-Landers-GT/MonopropUAV) at [Propulsive Landers](https://gtpropulsivelanders.org/), and we're aiming to be the first ever collegiate team to achieve VTOL with a hybrid rocket. My concentration has been in model predictive control and navigation algorithms.
-- My team won the Best use of Mongo DB and an Honorable Mention from Google Cloud for [DocDoctor](https://github.com/karthiksing05/DocDoctor-AI-ATL): a CSM tool for transcribing customer calls in real-time and provide intuitive documentation lookup. ([Devpost](https://devpost.com/software/docdoctor))
-- I also won the Retro Track at the HackNC hackathon for [SlashSend](https://github.com/kevinzhxng/SlashSpend)! ([Devpost](https://devpost.com/software/slashspend))
-- I'm currently working on a Personal Finance app for CS2340, with collaborative goal tracking and a chatbot for intuitive use.
+- **[FIRST Robotics Team 1771](https://github.com/TEAM1771)**: Mentoring the software department for the 2026 Rebuilt challenge.
+- **[RoboCup @ Georgia Tech](https://github.com/RoboJackets/robocup-software)**: Contributing to ROS integration, autonomous strategies, and computer vision for competitive soccer robotics.
+- **[Guidance, Navigation & Control](https://github.com/Avionics-Propulsion-Landers-GT/MonopropUAV)** at [Propulsive Landers](https://gtpropulsivelanders.org/): Working on model predictive control and navigation for hybrid rocket VTOL.
+  
+---
 
-<!-- ####    🔭 I’m currently working on an android app for CS2340 -->
+### Recent Hackathon Projects
+- **[Soφ](https://devpost.com/software/sophia-c3qw4b)**: Adaptive practice platform for generating questions, real-time difficulty adjustment, and targeted hints (using Gemini and WolframAlpha for hallucination-resistant RAG).
+- **[DocDoctor](https://devpost.com/software/docdoctor)**: Winner of Best Use of MongoDB and Honorable Mention from Google Cloud. A real-time customer service transcription tool with intuitive documentation lookup.
+- **[SlashSend](https://devpost.com/software/slashspend)**: Won Retro Track at HackNC for a browser extension that warns you of hidden subscription price hikes.
+---
 
-####    📫  You can reach me @ josephfarkas@gatech.edu
-
-<!-- ![](https://github.com/mrredness/github-stats/blob/master/generated/overview.svg)
-
-![](https://github.com/mrredness/github-stats/blob/master/generated/languages.svg) -->
+#### 📫 Reach me at: josephfarkas@gatech.edu
 
 [![FarkasJoseph's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=FarkasJoseph&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&&custom_title=Joseph's+GitHub+Stats)](https://github.com/anuraghazra/github-readme-stats)
 
 ![FarkasJoseph's Recent Hackatime stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=22494&api_domain=hackatime.hackclub.com&&custom_title=Joseph's+Recent+Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=transparent&hide_border=true&bg_color=00000000)
-
-
-<!-- {{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }} -->
-<!--
-[![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=FarkasJoseph&langs_count=10&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true&show_icons=true&hide_border=true&bg_color=00000000&hide=html)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<!--
-[![Wakatime](https://wakatime.com/share/@018bcffe-5abf-4894-acd6-0ce0310dfd2a/8832125e-cdae-4bc2-976c-6643fa8ab2ca.svg)](https://wakatime.com)
--->
-
-<!--
-**MrRedness/MrRedness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
