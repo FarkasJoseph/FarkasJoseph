@@ -1,7 +1,7 @@
 # Welcome 🖖
 
 ## CS | Georgia Tech | FRC 1771 Programming Mentor  
-### Passionate about embedded devices, AI, and hands-on software engineering.  
+### Passionate about robotics, space exploration and hands-on software engineering.  
 ### Always looking to expand my technical expertise and collaborate on impactful solutions.  
 
 ---
@@ -18,7 +18,7 @@
   Feduicals, localization, and Kalman filtering.
   
 - **Machine Learning**  
-  Python, Jupyter, TensorFlow, Mediapipe for neural network models (e.g., body language, gestures).
+  Python, Jupyter, TensorFlow, Pytorch.
   
 - **Fullstack Development**  
   Flutter/Dart, Java (JavaFX), JavaScript, HTML/CSS.
@@ -26,6 +26,10 @@
 ---
 
 ### 🔧 Recent Work
+
+- ** Software Engineering Intern at NASA Jet Propulsion Laboratory, Robotics Division (Pasadena, CA)
+
+- ** Software Engineering Intern at Ramp (NYC)
 
 - **[FIRST Robotics Team 1771](https://github.com/TEAM1771)**  
   Mentoring the software department for the 2026 Rebuilt challenge.
