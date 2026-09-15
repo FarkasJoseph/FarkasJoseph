@@ -27,9 +27,9 @@
 
 ### 🔧 Recent Work
 
-- ** Software Engineering Intern at NASA Jet Propulsion Laboratory, Robotics Division (Pasadena, CA)
+- Software Engineering Intern at NASA Jet Propulsion Laboratory, Robotics Division (Pasadena, CA)
 
-- ** Software Engineering Intern at Ramp (NYC)
+- Software Engineering Intern at Ramp (NYC)
 
 - **[FIRST Robotics Team 1771](https://github.com/TEAM1771)**  
   Mentoring the software department for the 2026 Rebuilt challenge.
