@@ -6,7 +6,7 @@
 
 ---
 
-## 🔗 [Resume](https://github.com/FarkasJoseph/Resume/blob/main/main.pdf)
+## 🔗 [Resume](https://github.com/FarkasJoseph/Resume/blob/main/Joseph%20Farkas%20Resume.pdf)
 
 ---
 
