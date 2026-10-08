@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/collage.webp" width="100%" alt="Photo collage: Joseph at the Golden Gate Bridge, FRC 1771 after winning the Curie Division at the 2025 FIRST Championship, Joseph at the Perseverance ACE console in JPL's mission control, hiking Half Dome, Yosemite Valley at night, the Atlanta skyline, a Laguna Beach sunset, the New York City skyline, and a rover in JPL's Mars Yard">
+<img src="assets/collage.webp" width="100%" alt="Photo collage: a rover in JPL's Mars Yard, FRC 1771 after winning the Curie Division at the 2025 FIRST Championship, Joseph at the Perseverance ACE console in JPL's mission control, hiking Half Dome, Yosemite Valley at night, the Atlanta skyline, a Laguna Beach sunset, and the New York City skyline">
 
 # Joseph Farkas
 
