@@ -7,6 +7,8 @@
 **Robotics software engineer working on motion planning, state estimation, and spacecraft ground systems**<br>
 Computer Science BS/MS at Georgia Tech · Vice Lead, GNC at Propulsive Landers
 
+<a href="https://josephfarkas.pages.dev/"><img src="https://img.shields.io/badge/josephfarkas.pages.dev-C1440E?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPSd3aGl0ZScgc3Ryb2tlLXdpZHRoPScyJyBzdHJva2UtbGluZWNhcD0ncm91bmQnIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPjxjaXJjbGUgY3g9JzEyJyBjeT0nMTInIHI9JzEwJy8%2BPHBhdGggZD0nTTIgMTJoMjAnLz48cGF0aCBkPSdNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHonLz48L3N2Zz4%3D" width="340" alt="Website: josephfarkas.pages.dev"></a>
+
 <a href="https://www.linkedin.com/in/farkasjoseph"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nd2hpdGUnPjxwYXRoIGQ9J00yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeicvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></a>
 <a href="mailto:josephfarkas@gatech.edu"><img src="https://img.shields.io/badge/josephfarkas%40gatech.edu-003057?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPSd3aGl0ZScgc3Ryb2tlLXdpZHRoPScyJyBzdHJva2UtbGluZWNhcD0ncm91bmQnIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPjxyZWN0IHg9JzInIHk9JzQnIHdpZHRoPScyMCcgaGVpZ2h0PScxNicgcng9JzInLz48cGF0aCBkPSdtMjIgNy0xMCA2TDIgNycvPjwvc3ZnPg%3D%3D" alt="Email: josephfarkas@gatech.edu"></a>
 <a href="https://github.com/FarkasJoseph/Resume/blob/main/Joseph%20Farkas%20Resume.pdf"><img src="https://img.shields.io/badge/Resume-B3A369?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAyNCAyNCcgZmlsbD0nbm9uZScgc3Ryb2tlPSd3aGl0ZScgc3Ryb2tlLXdpZHRoPScyJyBzdHJva2UtbGluZWNhcD0ncm91bmQnIHN0cm9rZS1saW5lam9pbj0ncm91bmQnPjxwYXRoIGQ9J00xNCAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWOHonLz48cGF0aCBkPSdNMTQgMnY2aDYnLz48cGF0aCBkPSdNMTYgMTNIOCcvPjxwYXRoIGQ9J00xNiAxN0g4Jy8%2BPC9zdmc%2B" alt="Resume (PDF)"></a>
@@ -181,3 +183,7 @@ Adaptive practice that writes instructor-style questions, adjusts difficulty in 
 **Other tools:** SQL · YOLO · ArUco · Protobuf · YAMCS · CAN bus · SOLIDWORKS · Fusion 360
 
 ## [Resume](https://github.com/FarkasJoseph/Resume/blob/main/Joseph%20Farkas%20Resume.pdf)
+
+## [Website](https://josephfarkas.pages.dev/)
+
+Photos, places I've been, and what I'm reading and listening to are all at **[josephfarkas.pages.dev](https://josephfarkas.pages.dev/)**.
